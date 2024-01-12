@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-12T08:25:40.406Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="OVT407H0JIDeTF8Kjw-U" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-12T08:26:22.621Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="GRIVvzvCWDggQ7sc4WHq" version="22.1.15" type="github">
   <diagram name="ページ1" id="sev8meM3Ap3LMCX1hsEi">
-    <mxGraphModel dx="1160" dy="856" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="690" math="0" shadow="0">
+    <mxGraphModel dx="1160" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="690" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -172,7 +172,7 @@
         <mxCell id="VTmtLj25u4XOviMNucSL-102" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="840" y="200" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VTmtLj25u4XOviMNucSL-103" value="p1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff1f0;" vertex="1" parent="1">
+        <mxCell id="VTmtLj25u4XOviMNucSL-103" value="p1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff1f0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="680" y="240" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VTmtLj25u4XOviMNucSL-104" value="3/8" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ff8b85;fontFamily=Times New Roman;" vertex="1" parent="1">
@@ -187,7 +187,7 @@
         <mxCell id="VTmtLj25u4XOviMNucSL-107" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="840" y="240" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VTmtLj25u4XOviMNucSL-108" value="p0" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fad9d5;" vertex="1" parent="1">
+        <mxCell id="VTmtLj25u4XOviMNucSL-108" value="p0" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fad9d5;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="680" y="280" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VTmtLj25u4XOviMNucSL-109" value="1/2" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ff8b85;fontFamily=Times New Roman;" vertex="1" parent="1">
@@ -202,7 +202,7 @@
         <mxCell id="VTmtLj25u4XOviMNucSL-112" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="840" y="280" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VTmtLj25u4XOviMNucSL-113" value="p1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff1f0;" vertex="1" parent="1">
+        <mxCell id="VTmtLj25u4XOviMNucSL-113" value="p1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff1f0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="680" y="320" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VTmtLj25u4XOviMNucSL-114" value="3/8" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ff8b85;fontFamily=Times New Roman;" vertex="1" parent="1">
